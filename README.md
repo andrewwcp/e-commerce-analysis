@@ -12,8 +12,8 @@ The dataset used for analysis can be found in the `data/` directory. It includes
 - `order_reviews_dataset.csv`: Information about reviews from customers.
 - `orders_dataset.csv`: Information about customer transaction per id transaction.
 - `product_category_name_translation.csv`: Information about name of product in english.
-- `products_dataset.csv`: Information about payment method in customer transaction
-- `sellers_dataset.csv`: Information about payment method in customer transaction
+- `products_dataset.csv`: Information about payment method in customer transaction.
+- `sellers_dataset.csv`: Information about payment method in customer transaction.
 Dataset can be downloaded in this link : 
 
 ## Technologies Used
